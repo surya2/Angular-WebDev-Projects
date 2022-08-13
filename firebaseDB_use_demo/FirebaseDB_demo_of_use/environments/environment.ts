@@ -6,7 +6,7 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBdVPaV7WgrEWwPipx0mFXdvWrDLj9b4UA",
+    apiKey: "Key not included because this is private",
     authDomain: "fir-demo-4db43.firebaseapp.com",
     databaseURL: "https://fir-demo-4db43.firebaseio.com",
     projectId: "fir-demo-4db43",
